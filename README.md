@@ -1,0 +1,1 @@
+This EDA Project on Spotify's Musical Landscape uses Spotify Song Attributes Dataset. The project involved identifying top artists, exploring trends in loudness and danceability, and visualizing relationships between various music attributes.
